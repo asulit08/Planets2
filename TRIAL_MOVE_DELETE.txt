@@ -1,0 +1,1 @@
+ was initially in planets directory. wanted to see what will happen if a committed file is moved out of a repository --> marked as deleted
